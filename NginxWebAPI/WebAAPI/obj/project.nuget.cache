@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "82zYRFKZSpxPjxoMoA6A0DhmyGSs3sWWakQLU1IP/Y1Tc7aEVLa/ZJChok5uHHDzjVr40T7owdYSqmK49BzclQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jmtra\\source\\repos\\ChapterLugarh\\NginxWebAPI\\WebAAPI\\WebAAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmtra\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
